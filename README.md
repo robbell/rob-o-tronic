@@ -10,4 +10,4 @@ Rob-O-Tronic is an isometric puzzle game written in C++ using the Simple DirectM
 
 The installer for the compiled game can be found at:
 
-http://rob-bell.net/2009/03/rob-o-tronic/
+<https://github.com/robbell/rob-o-tronic/releases/tag/1.0>
